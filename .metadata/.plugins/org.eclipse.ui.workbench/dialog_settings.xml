@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="31"/>
+		<item key="DIALOG_Y_ORIGIN" value="353"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.Preferences"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.jst.servlet.ui.internal.wizard.WebComponentExportWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="/Users/wxy/Downloads/tomorrow-theme-master 3/Eclipse/Tomorrow-Night.epf"/>
+		<item key="" value="/Users/wxy/Downloads/tomorrow-theme-master/Eclipse/Tomorrow-Night.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/wxy/Downloads/tomorrow-theme-master/Eclipse/Tomorrow-Night.epf"/>
+			<item value="/Users/wxy/Downloads/tomorrow-theme-master 3/Eclipse/Tomorrow-Night.epf"/>
+			<item value="/Users/wxy/Downloads/tomorrow-theme-master 3/Eclipse/Tomorrow-Night-Bright.epf"/>
+			<item value="/Users/wxy/Downloads/tomorrow-theme-master 2/Eclipse/Tomorrow-Night-Bright.epf"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.eclipse.ant.ui.commentsColor=150,152,150
+org.eclipse.ant.ui.constantStringsColor=181,189,104
+org.eclipse.ant.ui.constantStringsColor_italic=true
+org.eclipse.ant.ui.debugColor=235,235,235
+org.eclipse.ant.ui.dtdColor=129,162,190
+org.eclipse.ant.ui.errorColor=225,30,70
+org.eclipse.ant.ui.informationColor=140,175,210
+org.eclipse.ant.ui.processingInstructionsColor=197,200,198
+org.eclipse.ant.ui.processingInstructionsColor_bold=true
+org.eclipse.ant.ui.tagsColor=129,162,190
+org.eclipse.ant.ui.tagsColor_bold=true
+org.eclipse.ant.ui.textColor=197,200,198
+overriddenByCSS=,org.eclipse.ant.ui.constantStringsColor_italic,org.eclipse.ant.ui.processingInstructionsColor_bold,org.eclipse.ant.ui.tagsColor_bold,org.eclipse.ant.ui.debugColor,org.eclipse.ant.ui.errorColor,org.eclipse.ant.ui.informationColor,
